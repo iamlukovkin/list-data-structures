@@ -94,5 +94,6 @@ int main() {
     linkedListTest();
     stacksTest();
     postfixEvaluatorTest();
+    prefixEvaluatorTest();
     return 0;
 }
