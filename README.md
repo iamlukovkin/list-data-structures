@@ -4,6 +4,8 @@ A C++ project implementing various data structures and evaluating prefix and pos
 approach. This project includes linked list operations, stack implementations, and evaluates mathematical expressions in
 both prefix and postfix notation.
 
+![sample](images/sample.png)
+
 ## Features
 
 - **Linked list Implementations (`LinkedList`)**:
