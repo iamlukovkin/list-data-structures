@@ -1,5 +1,10 @@
-#include <iostream>
+#include "tests/LinkedListTest.h"
+
+void linkedListTest() {
+    LinkedListTest::run();
+}
 
 int main() {
-    std::cout << "Hello World!\n";
+    linkedListTest();
+    return 0;
 }
