@@ -106,7 +106,7 @@ To run the tests:
 - Modify the main.cpp file to call the respective test functions.
 - Rebuild the project using `cmake --build ..`
 
-Made with ❤️ by iamlukovkin
+Made with ❤️ by [iamlukovkin](https://github.com/iamlukovkin)
 
 ### Explanation:
 - **Project Overview**: The introduction explains the general purpose of the project, the core functionalities, and features.
